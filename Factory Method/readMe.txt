@@ -1,0 +1,1 @@
+- Its a creational pattern that has an interface to create objects in a superclass. 
